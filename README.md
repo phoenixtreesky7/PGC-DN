@@ -3,9 +3,9 @@
 
 # PGCDN
 
-## Pyramid Global Context Aided Attentive U-Net for Image Dehazing
+## Pyramid Global Context Modeling for Image Dehazing
 
-Dong Zhao1,2, Long Xu 1, Lin Ma 3, Jia Li 4, and Yihua Yan1
+Dong Zhao 1,2, Long Xu 1, Lin Ma 3, Jia Li 4, and Yihua Yan 1
 
 Key Laboratory of Solar Activity, National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100101, China
 
