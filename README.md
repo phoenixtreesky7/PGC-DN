@@ -27,7 +27,7 @@ CUDA_VISIBALE_DEVICES=0,1,2,3 python train.py --netG onemsgc_drun_pl --gpu_ids 0
 
 ## test:
 
-python tesy_my.py --netG onemsgc_drun_pl --which_epoch 50
+python test_my.py --netG onemsgc_drun_pl --which_epoch 50
 
 # Acknowledgement
 
