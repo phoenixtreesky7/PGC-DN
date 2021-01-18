@@ -3,7 +3,7 @@
 
 # PGCDN
 
-## Pyramid Global Context Modeling for Image Dehazing
+## Pyramid Global Context Network for Image Dehazing
 
 Dong Zhao 1,2, Long Xu 1, Lin Ma 3, Jia Li 4, and Yihua Yan 1
 
@@ -14,6 +14,8 @@ University of Chinese Academy of Sciences, Beijing, 100049, China
 Tencent AI Lab, Shenzhen, 518057, China
 
 Beihang University, Beijing, 100191, China
+
+Published in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 
 # Abstract
 
