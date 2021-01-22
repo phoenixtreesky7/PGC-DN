@@ -1,7 +1,7 @@
 
 
 
-# PGCDN
+# PGCDN : Pyramid Global Context Network for Image Dehazing
 
 ## Pyramid Global Context Network for Image Dehazing
 
