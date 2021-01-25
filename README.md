@@ -15,7 +15,7 @@ Tencent AI Lab, Shenzhen, 518057, China
 
 Beihang University, Beijing, 100191, China
 
-Published in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
+Accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 
 Ppaer: https://ieeexplore.ieee.org/abstract/document/9252912
 
